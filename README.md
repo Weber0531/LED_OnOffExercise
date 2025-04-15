@@ -16,6 +16,9 @@ It toggles the Green LED (LED4) automatically and uses for loop to observe the c
 ## 🧪 How to Run
 
 1. Clone this repo
+```bash
+git clone https://github.com/Weber0531/LED_OnOffExercise.git
+```
 2. Open STM32CubeIDE → Import Existing Project
 3. Connect STM32F4Discovery
 4. Build & Run
