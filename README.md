@@ -19,9 +19,10 @@ It toggles the Green LED (LED4) automatically and uses for loop to observe the c
 ```bash
 git clone https://github.com/Weber0531/LED_OnOffExercise.git
 ```
-2. Open STM32CubeIDE → Import Existing Project
-3. Connect STM32F4Discovery
-4. Build & Run
+2. Open STM32CubeIDE → File → Import → General → Existing Projects into Workspace
+3. Select the folder you just cloned
+4. Connect STM32F4Discovery
+5. Build & Run
 
 ## 📝 Author
 
