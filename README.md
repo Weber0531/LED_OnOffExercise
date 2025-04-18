@@ -24,6 +24,6 @@ git clone https://github.com/Weber0531/LED_OnOffExercise.git
 4. Connect STM32F4Discovery
 5. Build & Run
 
-## 📝 Author
+## Demo
 
 👉 [觀看完整影片](https://drive.google.com/file/d/1Q5LiskwBIaHnf1F2N5cfWwkXia78emPd/view?usp=sharing)
